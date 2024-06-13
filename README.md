@@ -11,7 +11,7 @@ Hardware Setup: Assemble the custom-designed Arduino Nano board according to the
 Contributing
 Contributions to the Custom Arduino Nano project are welcome! If you'd like to contribute, please follow these guidelines:
 
-Fork the repository and create a new branch for your feature or bug fix.
-Make your changes and ensure that the code follows the project's coding conventions.
-Test your changes thoroughly.
-Submit a pull request with a clear description of your changes and their purpose.
+1) Fork the repository and create a new branch for your feature or bug fix.
+2) Make your changes and ensure that the code follows the project's coding conventions.
+3) Test your changes thoroughly.
+4) Submit a pull request with a clear description of your changes and their purpose.
