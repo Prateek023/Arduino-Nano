@@ -8,7 +8,7 @@ This project revolves around a custom-designed Arduino Nano, engineered to meet 
 2. Contributing
 Contributions to the Custom Arduino Nano project are welcome! If you'd like to contribute, please follow these guidelines:
 
-1) Fork the repository and create a new branch for your feature or bug fix.
-2) Make your changes and ensure that the code follows the project's coding conventions.
-3) Test your changes thoroughly.
-4) Submit a pull request with a clear description of your changes and their purpose.
+  a) Fork the repository and create a new branch for your feature or bug fix.
+  b) Make your changes and ensure that the code follows the project's coding conventions.
+  c) Test your changes thoroughly.
+  d) Submit a pull request with a clear description of your changes and their purpose.
