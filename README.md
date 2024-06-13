@@ -1,6 +1,4 @@
 # Custom-Arduino-Nano
-##
-Introduction
 This project revolves around a custom-designed Arduino Nano, engineered to meet specific needs. Whether it's for a particular application, compactness, or additional features, this custom Arduino Nano offers a tailored solution for your project requirements.
 ## Hardware Setup
 Assemble the custom-designed Arduino Nano board according to the provided schematic and layout diagrams. Ensure all components are soldered correctly and connections are secure.
